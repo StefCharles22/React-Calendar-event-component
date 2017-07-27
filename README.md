@@ -23,7 +23,7 @@ The functionalities above cover the following technologies
 ### DEMO
 
 
-
+[React calendar component demo.gif.zip](https://github.com/StefCharles22/React-Calendar-event-component/files/1180858/React.calendar.component.demo.gif.zip)
 
 
 

@@ -23,7 +23,7 @@ The functionalities above cover the following technologies
 ### DEMO
 
 
-![react calendar component demo](https://user-images.githubusercontent.com/18531035/28682245-275de36c-72ca-11e7-8f1a-599de4e56d0e.gif)
+![react calendar invite component](https://user-images.githubusercontent.com/18531035/28722503-fd2d8ae4-7381-11e7-8ce5-7ab8476155e8.gif)
 
 
 
